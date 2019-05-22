@@ -13,7 +13,7 @@ Following are the pre-requisites for the same:
 
 
 ## Instructions:
-1. To launch the test suite, the provided project must be imported to the current workspace.
+1. To launch the test suite, the provided project must be imported to the current workspace (sampl.zip).
 2. Configure the build path with respective jars
 3. Resolve all the configuration issues if needed by importing the respective plugins (TestNG)
 4. All the test cases are data driven
