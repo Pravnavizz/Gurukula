@@ -1,13 +1,13 @@
 # Gurukula
 Automation Test Suite 
-THis is the automation framework for the Gurukula application.
+###### This is the automation framework for the Gurukula application.
 
 # Prerequisite
 Following are the pre-requisites for the same:
 ## Eclipse IDE with TestNG 
 ## JDK 1.7 or higher
 ## Supporting JAR files (provided)
-## apache tomcat (if needed to host the application)
+## apache tomcat (to host the application)
 ## selenium jars
 ## Chrome Web Driver
 
@@ -25,6 +25,7 @@ Following are the pre-requisites for the same:
 10. The Test Run Report is generated in .html format for reporting purpose, which can be found in src\test-output\Test Suite\index.html.
 11. Screenshots are taken for major actions that are performed on that page, which can be found on  src\Screenshots
 
+#### NOTE: Application needs to be hosted in the local server for the automation framework to run
 ## Defects found
 
 ### Defect 1: 
