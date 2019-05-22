@@ -5,12 +5,11 @@ Automation Test Suite
 # Prerequisite
 Following are the pre-requisites for the same:
 ## Eclipse IDE with TestNG 
-## JDK 1.7 or higher
+## Java version 1.7 or higher
 ## Supporting JAR files (provided)
 ## apache tomcat (to host the application)
 ## selenium jars
 ## Chrome Web Driver
-
 
 ## Instructions:
 1. To launch the test suite, the provided project must be imported to the current workspace (sampl.zip).
